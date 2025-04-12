@@ -1,6 +1,6 @@
 # 抽奖小程序 🎲
 
-![Python](https://img.shields.io/badge/Python-3.6+-blue?style=for-the-badge)![License](https://img.shields.io/badge/License-GPL_3.0-green?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3.6+-blue?style=for-the-badge) ![License](https://img.shields.io/badge/License-GPL_3.0-green?style=for-the-badge)
 
 ## 📦 功能特性
 
