@@ -28,6 +28,7 @@
    ```bash
    # 在程序目录创建 index.json
    echo '["张三", "李四", "王五"]' > index.json
+   ```
 
 1. 运行程序：
 
@@ -123,12 +124,12 @@ def toggle_drawing(self):
 
 ✅ **解决方案：**
 
-1. 确认文件名为`members.json`
+1. 确认文件名为`index.json`
 
 2. 检查JSON格式有效性：
 
 	```bash
-	python -c "import json; json.load(open('members.json'))"
+	python -c "import json; json.load(open('index.json'))"
 	```
 
 3. 确保文件编码为UTF-8
@@ -165,9 +166,9 @@ master.tk_setPalette(background='#f5f5f5')  # 强制背景色
 
 ```
 抽签程序/
-├── lottery.py        # 主程序
-├── members.json      # 名单文件
-└── README.md         # 说明文档
+├── index.py        # 主程序
+├── index.json      # 名单文件
+└── README.md       # 说明文档
 ```
 
 ## 📄 开源协议
