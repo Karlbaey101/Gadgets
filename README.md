@@ -1,6 +1,6 @@
 # 🔧Gadgets by Karlbaey
 
-![好的图片](https://socialify.git.ci/Karlbaey101/Gadgets/image?description=1&descriptionEditable=小程序、脚本和其他&font=Bitter&name=1&owner=1&stargazers=1&theme=Dark)
+![gadgets](https://socialify.git.ci/karlbaey101/gadgets/image?description=1&font=Bitter&language=1&name=1&owner=1&pattern=Circuit+Board&stargazers=1&theme=Dark)
 
 这个仓库的前身是 `Gadget-Lottery` ，本意只是想存储一个自己写的脚本。但是发现有用的脚本越来越多，如果每个脚本都拆成一个仓库显然不可取，因此我修改了这个仓库，以便于我存储。
 
@@ -10,15 +10,20 @@
 
 ```
 Gadgets/
-|   LICENSE
-|   README.md
-|
-+---Lottery
-|       index.json
-|       index.py
-|       README.md
-|
-\---WechatMembers
+│  LICENSE
+│  README.md
+│
+├─Lottery
+│      index.json
+│      index.py
+│      README.md
+│
+├─Snake
+│      index.py
+|      README.md
+│      Snake.png
+│
+└─WechatMembers
         index.py
         name_list.txt
         README.md
